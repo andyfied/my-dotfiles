@@ -1,0 +1,19 @@
+{
+  "name": "my-dotfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "themer": "^3.1.1",
+    "themer-colors-default": "^1.0.6",
+    "themer-hyper": "^2.0.6",
+    "themer-vim": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "themer -c themer-colors-default -t themer-hyper -t themer-vim -o gen"
+  },
+  "author": "",
+  "license": "ISC"
+}

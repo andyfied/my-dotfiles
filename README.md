@@ -1,2 +1,2 @@
 # my-dotfiles
-A themer project
+A [themer](https://github.com/mjswensen/themer) project
